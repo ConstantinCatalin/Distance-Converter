@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feet to Meters</string>
+    <string name="title">Feet to meters converter</string>
+    <string name="hint">Insert feet</string>
+    <string name="ft">ft</string>
+    <string name="transform">Transform</string>
+    <string name="swap">Swap</string>
+    <string name="result">Result:</string>
+    <string name="zero">0</string>
+
+</resources>
